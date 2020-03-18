@@ -1,0 +1,150 @@
+Game #1 
+Victory or Defeat?: Defeat 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'defeat'] 
+
+Game #2 
+Victory or Defeat?: Defeat 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'defeat'] 
+
+Game #3 
+Victory or Defeat?: Victory 
+Probability: 0.39375% 
+Steps: ['seek_enemy', 'seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #4 
+Victory or Defeat?: Victory 
+Probability: 2.625% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #5 
+Victory or Defeat?: Victory 
+Probability: 0.196875% 
+Steps: ['seek_enemy', 'fight', 'flee', 'seek_medkit', 'seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #6 
+Victory or Defeat?: Victory 
+Probability: 2.625% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #7 
+Victory or Defeat?: Victory 
+Probability: 0.196875% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'flee', 'seek_medkit', 'seek_enemy', 'fight', 'victory'] 
+
+Game #8 
+Victory or Defeat?: Defeat 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'defeat'] 
+
+Game #9 
+Victory or Defeat?: Defeat 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'defeat'] 
+
+Game #10 
+Victory or Defeat?: Defeat 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'defeat'] 
+
+Game #11 
+Victory or Defeat?: Defeat 
+Probability: 0.39375% 
+Steps: ['seek_enemy', 'seek_enemy', 'seek_enemy', 'fight', 'defeat'] 
+
+Game #12 
+Victory or Defeat?: Victory 
+Probability: 0.39375% 
+Steps: ['seek_enemy', 'seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #13 
+Victory or Defeat?: Victory 
+Probability: 2.625% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #14 
+Victory or Defeat?: Victory 
+Probability: 0.196875% 
+Steps: ['seek_enemy', 'fight', 'flee', 'seek_medkit', 'seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #15 
+Victory or Defeat?: Victory 
+Probability: 0.029531250000000002% 
+Steps: ['seek_enemy', 'seek_enemy', 'seek_medkit', 'seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #16 
+Victory or Defeat?: Defeat 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'defeat'] 
+
+Game #17 
+Victory or Defeat?: Victory 
+Probability: 2.625% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #18 
+Victory or Defeat?: Defeat 
+Probability: 2.625% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'defeat'] 
+
+Game #19 
+Victory or Defeat?: Defeat 
+Probability: 0.196875% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'flee', 'seek_medkit', 'seek_enemy', 'fight', 'defeat'] 
+
+Game #20 
+Victory or Defeat?: Defeat 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'defeat'] 
+
+Game #21 
+Victory or Defeat?: Victory 
+Probability: 0.0073828125000000005% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'flee', 'seek_medkit', 'seek_enemy', 'seek_medkit', 'flee', 'seek_medkit', 'seek_enemy', 'fight', 'victory'] 
+
+Game #22 
+Victory or Defeat?: Victory 
+Probability: 2.625% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #23 
+Victory or Defeat?: Defeat 
+Probability: 0.1640625% 
+Steps: ['seek_enemy', 'fight', 'flee', 'seek_medkit', 'flee', 'seek_medkit', 'flee', 'seek_medkit', 'flee', 'seek_medkit', 'seek_enemy', 'fight', 'defeat'] 
+
+Game #24 
+Victory or Defeat?: Defeat 
+Probability: 1.5573120117187495e-06% 
+Steps: ['seek_enemy', 'seek_medkit', 'flee', 'seek_medkit', 'seek_enemy', 'seek_enemy', 'fight', 'flee', 'seek_medkit', 'seek_enemy', 'seek_medkit', 'flee', 'seek_medkit', 'flee', 'seek_medkit', 'flee', 'seek_medkit', 'seek_enemy', 'seek_enemy', 'seek_enemy', 'fight', 'defeat'] 
+
+Game #25 
+Victory or Defeat?: Defeat 
+Probability: 0.328125% 
+Steps: ['seek_enemy', 'seek_medkit', 'flee', 'seek_medkit', 'flee', 'seek_medkit', 'seek_enemy', 'fight', 'defeat'] 
+
+Game #26 
+Victory or Defeat?: Victory 
+Probability: 0.00221484375% 
+Steps: ['seek_enemy', 'fight', 'flee', 'seek_medkit', 'flee', 'seek_medkit', 'seek_enemy', 'seek_enemy', 'seek_enemy', 'seek_enemy', 'fight', 'victory'] 
+
+Game #27 
+Victory or Defeat?: Victory 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'victory'] 
+
+Game #28 
+Victory or Defeat?: Defeat 
+Probability: 0.0984375% 
+Steps: ['seek_enemy', 'seek_enemy', 'fight', 'flee', 'seek_medkit', 'flee', 'seek_medkit', 'seek_enemy', 'fight', 'defeat'] 
+
+Game #29 
+Victory or Defeat?: Victory 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'victory'] 
+
+Game #30 
+Victory or Defeat?: Victory 
+Probability: 17.5% 
+Steps: ['seek_enemy', 'fight', 'victory'] 
+
