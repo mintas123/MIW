@@ -1,0 +1,38 @@
+r VS  p  =>  -1 
+r VS  p  =>  -1 
+s VS  p  =>  1 
+s VS  s  =>  0 
+p VS  s  =>  -1 
+r VS  s  =>  1 
+r VS  p  =>  -1 
+p VS  p  =>  0 
+p VS  s  =>  -1 
+r VS  s  =>  1 
+r VS  p  =>  -1 
+s VS  p  =>  1 
+p VS  s  =>  -1 
+r VS  r  =>  0 
+p VS  r  =>  1 
+s VS  r  =>  -1 
+s VS  s  =>  0 
+r VS  p  =>  -1 
+p VS  p  =>  0 
+p VS  p  =>  0 
+s VS  s  =>  0 
+r VS  r  =>  0 
+r VS  r  =>  0 
+p VS  s  =>  -1 
+s VS  s  =>  0 
+p VS  p  =>  0 
+p VS  r  =>  1 
+r VS  p  =>  -1 
+p VS  p  =>  0 
+s VS  p  =>  1 
+You won 7 times, there was a draw 12 times, lost 11 times
+ANALYSIS: 
+
+User probabilities of choosing  R, P, S : [0.36666666666666664, 0.36666666666666664, 0.26666666666666666] 
+Choices after Rock - R, P, S: [0.2727272727272727, 0.5454545454545454, 0.18181818181818182] 
+Choices after Paper - R, P, S: [0.18181818181818182, 0.45454545454545453, 0.36363636363636365] 
+Choices after Scissors - R, P, S: [0.125, 0.375, 0.5] 
+

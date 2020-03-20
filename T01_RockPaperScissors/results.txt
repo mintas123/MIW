@@ -1,0 +1,320 @@
+s VS  r  =>  -1 
+s VS  p  =>  1 
+s VS  s  =>  0 
+p VS  r  =>  1 
+s VS  s  =>  0 
+p VS  s  =>  -1 
+s VS  s  =>  0 
+r VS  p  =>  -1 
+p VS  p  =>  0 
+p VS  r  =>  1 
+r VS  s  =>  1 
+r VS  r  =>  0 
+s VS  p  =>  1 
+p VS  s  =>  -1 
+p VS  p  =>  0 
+s VS  r  =>  -1 
+p VS  r  =>  1 
+s VS  p  =>  1 
+s VS  s  =>  0 
+p VS  s  =>  -1 
+p VS  p  =>  0 
+s VS  s  =>  0 
+p VS  p  =>  0 
+r VS  s  =>  1 
+s VS  s  =>  0 
+s VS  s  =>  0 
+r VS  r  =>  0 
+p VS  r  =>  1 
+s VS  p  =>  1 
+s VS  r  =>  -1 
+You won 10 times, there was a draw 13 times, lost 7 times
+ANALYSIS: 
+
+User probabilities of choosing  R, P, S : [0.36666666666666664, 0.16666666666666666, 0.4666666666666667] 
+Choices after Rock - R, P, S: [0.4, 0.2, 0.4] 
+Choices after Paper - R, P, S: [0.36363636363636365, 0.36363636363636365, 0.2727272727272727] 
+Choices after Scissors - R, P, S: [0.21428571428571427, 0.2857142857142857, 0.5] 
+
+_______________ 
+
+s VS  s  =>  0 
+p VS  s  =>  -1 
+s VS  r  =>  -1 
+r VS  p  =>  -1 
+r VS  r  =>  0 
+p VS  s  =>  -1 
+p VS  r  =>  1 
+p VS  p  =>  0 
+s VS  p  =>  1 
+s VS  r  =>  -1 
+r VS  p  =>  -1 
+p VS  s  =>  -1 
+p VS  p  =>  0 
+r VS  r  =>  0 
+s VS  r  =>  -1 
+p VS  p  =>  0 
+s VS  r  =>  -1 
+p VS  s  =>  -1 
+p VS  s  =>  -1 
+s VS  r  =>  -1 
+r VS  s  =>  1 
+s VS  s  =>  0 
+r VS  r  =>  0 
+s VS  r  =>  -1 
+p VS  s  =>  -1 
+s VS  p  =>  1 
+s VS  p  =>  1 
+r VS  s  =>  1 
+s VS  p  =>  1 
+r VS  p  =>  -1 
+You won 7 times, there was a draw 8 times, lost 15 times
+ANALYSIS: 
+
+User probabilities of choosing  R, P, S : [0.3333333333333333, 0.26666666666666666, 0.4] 
+Choices after Rock - R, P, S: [0.375, 0.375, 0.25] 
+Choices after Paper - R, P, S: [0.1, 0.3, 0.6] 
+Choices after Scissors - R, P, S: [0.5, 0.3333333333333333, 0.16666666666666666] 
+
+_______________ 
+
+p VS  r  =>  1 
+r VS  s  =>  1 
+p VS  s  =>  -1 
+r VS  s  =>  1 
+r VS  r  =>  0 
+p VS  s  =>  -1 
+p VS  p  =>  0 
+p VS  s  =>  -1 
+r VS  p  =>  -1 
+p VS  p  =>  0 
+r VS  s  =>  1 
+r VS  p  =>  -1 
+s VS  p  =>  1 
+s VS  s  =>  0 
+s VS  r  =>  -1 
+r VS  s  =>  1 
+s VS  s  =>  0 
+r VS  r  =>  0 
+r VS  r  =>  0 
+p VS  p  =>  0 
+p VS  s  =>  -1 
+s VS  r  =>  -1 
+p VS  r  =>  1 
+p VS  r  =>  1 
+r VS  r  =>  0 
+s VS  r  =>  -1 
+s VS  s  =>  0 
+s VS  r  =>  -1 
+p VS  r  =>  1 
+p VS  r  =>  1 
+You won 10 times, there was a draw 10 times, lost 10 times
+ANALYSIS: 
+
+User probabilities of choosing  R, P, S : [0.4, 0.3333333333333333, 0.26666666666666666] 
+Choices after Rock - R, P, S: [0.4, 0.2, 0.4] 
+Choices after Paper - R, P, S: [0.4166666666666667, 0.25, 0.3333333333333333] 
+Choices after Scissors - R, P, S: [0.5, 0.125, 0.375] 
+
+_______________ 
+
+p VS  r  =>  1 
+r VS  s  =>  1 
+r VS  r  =>  0 
+r VS  r  =>  0 
+s VS  s  =>  0 
+s VS  s  =>  0 
+p VS  s  =>  -1 
+r VS  p  =>  -1 
+r VS  p  =>  -1 
+r VS  r  =>  0 
+r VS  p  =>  -1 
+p VS  p  =>  0 
+p VS  s  =>  -1 
+r VS  s  =>  1 
+p VS  s  =>  -1 
+s VS  p  =>  1 
+s VS  p  =>  1 
+r VS  s  =>  1 
+p VS  p  =>  0 
+r VS  p  =>  -1 
+p VS  r  =>  1 
+r VS  r  =>  0 
+s VS  p  =>  1 
+p VS  s  =>  -1 
+r VS  r  =>  0 
+r VS  p  =>  -1 
+s VS  p  =>  1 
+p VS  r  =>  1 
+p VS  s  =>  -1 
+p VS  s  =>  -1 
+You won 10 times, there was a draw 9 times, lost 11 times
+ANALYSIS: 
+
+User probabilities of choosing  R, P, S : [0.36666666666666664, 0.43333333333333335, 0.2] 
+Choices after Rock - R, P, S: [0.38461538461538464, 0.38461538461538464, 0.23076923076923078] 
+Choices after Paper - R, P, S: [0.2727272727272727, 0.18181818181818182, 0.5454545454545454] 
+Choices after Scissors - R, P, S: [0.0, 0.6666666666666666, 0.3333333333333333] 
+
+_______________ 
+
+r VS  s  =>  1 
+s VS  s  =>  0 
+s VS  r  =>  -1 
+r VS  r  =>  0 
+p VS  s  =>  -1 
+p VS  p  =>  0 
+p VS  p  =>  0 
+r VS  s  =>  1 
+p VS  p  =>  0 
+r VS  r  =>  0 
+s VS  r  =>  -1 
+r VS  r  =>  0 
+p VS  s  =>  -1 
+p VS  r  =>  1 
+s VS  p  =>  1 
+p VS  r  =>  1 
+r VS  p  =>  -1 
+r VS  s  =>  1 
+r VS  s  =>  1 
+r VS  p  =>  -1 
+r VS  r  =>  0 
+p VS  p  =>  0 
+s VS  p  =>  1 
+p VS  p  =>  0 
+r VS  r  =>  0 
+p VS  s  =>  -1 
+r VS  s  =>  1 
+s VS  r  =>  -1 
+p VS  r  =>  1 
+r VS  p  =>  -1 
+You won 10 times, there was a draw 11 times, lost 9 times
+ANALYSIS: 
+
+User probabilities of choosing  R, P, S : [0.36666666666666664, 0.43333333333333335, 0.2] 
+Choices after Rock - R, P, S: [0.38461538461538464, 0.23076923076923078, 0.38461538461538464] 
+Choices after Paper - R, P, S: [0.2727272727272727, 0.45454545454545453, 0.2727272727272727] 
+Choices after Scissors - R, P, S: [0.5, 0.3333333333333333, 0.16666666666666666] 
+
+_______________ 
+
+r VS  p  =>  -1 
+r VS  r  =>  0 
+r VS  p  =>  -1 
+s VS  p  =>  1 
+s VS  p  =>  1 
+p VS  s  =>  -1 
+r VS  p  =>  -1 
+s VS  p  =>  1 
+p VS  p  =>  0 
+r VS  p  =>  -1 
+p VS  r  =>  1 
+p VS  p  =>  0 
+r VS  s  =>  1 
+p VS  s  =>  -1 
+p VS  p  =>  0 
+p VS  p  =>  0 
+p VS  s  =>  -1 
+s VS  p  =>  1 
+s VS  r  =>  -1 
+p VS  r  =>  1 
+s VS  s  =>  0 
+p VS  r  =>  1 
+r VS  s  =>  1 
+r VS  p  =>  -1 
+r VS  r  =>  0 
+s VS  r  =>  -1 
+p VS  r  =>  1 
+r VS  p  =>  -1 
+r VS  r  =>  0 
+r VS  r  =>  0 
+You won 10 times, there was a draw 9 times, lost 11 times
+ANALYSIS: 
+
+User probabilities of choosing  R, P, S : [0.36666666666666664, 0.4, 0.23333333333333334] 
+Choices after Rock - R, P, S: [0.3333333333333333, 0.5, 0.16666666666666666] 
+Choices after Paper - R, P, S: [0.36363636363636365, 0.36363636363636365, 0.2727272727272727] 
+Choices after Scissors - R, P, S: [0.2857142857142857, 0.5714285714285714, 0.14285714285714285] 
+
+_______________ 
+
+r VS  s  =>  1 
+r VS  r  =>  0 
+p VS  s  =>  -1 
+s VS  p  =>  1 
+r VS  p  =>  -1 
+r VS  s  =>  1 
+s VS  s  =>  0 
+p VS  r  =>  1 
+s VS  s  =>  0 
+p VS  r  =>  1 
+r VS  r  =>  0 
+r VS  s  =>  1 
+p VS  p  =>  0 
+s VS  r  =>  -1 
+p VS  p  =>  0 
+r VS  r  =>  0 
+r VS  r  =>  0 
+p VS  r  =>  1 
+r VS  r  =>  0 
+r VS  s  =>  1 
+p VS  p  =>  0 
+r VS  r  =>  0 
+r VS  p  =>  -1 
+r VS  p  =>  -1 
+p VS  p  =>  0 
+r VS  s  =>  1 
+p VS  s  =>  -1 
+p VS  r  =>  1 
+r VS  r  =>  0 
+r VS  r  =>  0 
+You won 10 times, there was a draw 14 times, lost 6 times
+ANALYSIS: 
+
+User probabilities of choosing  R, P, S : [0.3333333333333333, 0.5333333333333333, 0.13333333333333333] 
+Choices after Rock - R, P, S: [0.5, 0.1875, 0.3125] 
+Choices after Paper - R, P, S: [0.4, 0.4, 0.2] 
+Choices after Scissors - R, P, S: [0.25, 0.25, 0.5] 
+
+_______________ 
+
+p VS  p  =>  0 
+p VS  s  =>  -1 
+p VS  r  =>  1 
+p VS  r  =>  1 
+p VS  s  =>  -1 
+p VS  s  =>  -1 
+s VS  r  =>  -1 
+r VS  p  =>  -1 
+p VS  p  =>  0 
+p VS  p  =>  0 
+r VS  r  =>  0 
+p VS  p  =>  0 
+p VS  s  =>  -1 
+p VS  s  =>  -1 
+p VS  r  =>  1 
+r VS  s  =>  1 
+r VS  p  =>  -1 
+r VS  s  =>  1 
+p VS  s  =>  -1 
+p VS  r  =>  1 
+p VS  r  =>  1 
+p VS  s  =>  -1 
+p VS  s  =>  -1 
+r VS  r  =>  0 
+p VS  s  =>  -1 
+p VS  s  =>  -1 
+p VS  r  =>  1 
+p VS  r  =>  1 
+p VS  p  =>  0 
+p VS  p  =>  0 
+You won 9 times, there was a draw 8 times, lost 13 times
+ANALYSIS: 
+
+User probabilities of choosing  R, P, S : [0.7666666666666667, 0.2, 0.03333333333333333] 
+Choices after Rock - R, P, S: [0.3333333333333333, 0.3333333333333333, 0.3333333333333333] 
+Choices after Paper - R, P, S: [0.30434782608695654, 0.2608695652173913, 0.43478260869565216] 
+Choices after Scissors - R, P, S: [1.0, 0.0, 0.0] 
+
+_______________ 
+
